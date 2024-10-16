@@ -1,0 +1,51 @@
+---
+title: "Dr. Francois Nguyen"
+image: ftn.jpg
+resources: cv_jfrench.pdf
+about: 
+  id: jfrench-heading
+  template: jolla
+  image-shape: rounded
+  image-width: 24em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:fnguyen@dunwoody.edu
+    - text: GitHub
+      icon: github
+      href: https://github.com/drwin22
+    - text: YouTube
+      icon: youtube
+      href: https://youtube.com/@jfrench
+    - text: Scholar
+      icon: google
+      href: https://scholar.google.com/citations?user=_2FHxoMAAAAJ&hl=en
+    - text: CV
+      icon: file-text
+      href: cv_jfrench.pdf
+---
+
+:::{#jfrench-heading}
+
+My name is Francois Nguyen. I have been a math instructor at Saint Paul College, A Community and Technical College for over 40 years. I would like to be selected for Fulbright Scholar to further my field experience of education in Vietnam.  My dissertation fits well with the  goals of the Fulbright program which are to empower underrepresented minority students in higher education and to advocate for better educational opportunities for these students cross the global boundary. 
+My dissertation focuses on how integrating technology into a traditional math class enhances minority students’ motivation and learning outcomes.  Research has shown many minority students lag behind in math. My goal can serve as a model for good educational practices in technology and math.  This dissertation will serve as a benchmark and will allow educational leaders to make sound decisions regarding resource allocation. 
+I plan on using this opportunity to establish myself as an educational consultant in the field of technology and math for minorities. I have worked as a leader in education both in K-12 and in the higher educational arena. I am well qualified to serve as an advocate for educational rights and justice for underreprsented minority populations in the area of digital equity.  I have taught math and technology to the refugee and immigrant students as well as students with low socioeconomic backgrounds at Saint Paul College for the last 24 years. I have also worked collaboratively with the K-12 system as a partner to provide a gateway for minority students to enter a two year college. These include career exploration, mentoring programs, and summer institutes. 
+The following is part of the introductory section of my dissertation:
+ 
+The force of globalization and the unbalanced distribution of economic wealth in different parts of the world have increased the numbers of people wanting to migrate and search for better opportunities (Jo, 2003). The growing number of immigrants from all over the world has increased the racial, ethnic, cultural, and linguistic diversity within the United States (Jo, 2003). 
+Because immigration of the last few decades to the United States has been composed of newcomers from Asia, Latin America, and Africa, areas in the United States have been overcome with significantly different languages and cultures than what was seen from previous European immigrants in the late 1800s and earlier decades of the 1900s (Ovando, 2003). Not only have immigrants from the last few decades had to overcome more challenges assimilating culturally, they have had to face difficulties in obtaining technological skills and other technical knowledge required by today’s workforce (Carson, 2002; Takaki, 1989; Trueba, 1997). 
+Since the mid 1970s, Minnesota, along with many other states, received an influx of immigrants. During the last two decades, there was a dramatic increase in the immigrant population in the Minnesota metropolitan areas (McMurry, 2001; Carson, 2002). From 1990 to 2000 Minnesota’s immigrant population nearly doubled. 
+It is important recognize the large presence immigrants living in Minnesota.
+It is also important to recognize that the immigrant population in the United States has exponentially increased in the last few decades.
+The process of acculturation in becoming a self sufficient citizen requires learning a new language and acquiring basic skills including math to gain access to vocational training and ultimately obtaining jobs (Carson, 2002). 
+The Condition of Education (National Center for Educational Statistics, 2001) stated most immigrant students who enter two year post secondary institutions are non traditional students. These students are most likely to have more problems academically then traditional students (Allen, 2004). Nontraditional students are characterized as older students, parents, full-time workers, and lack former educational backgrounds. They take longer to complete a degree and may remain enrolled after 5 years (Horn, 1995).
+	According to Request for Institutional Change (Saint Paul College A Community & Technical College, 2006) Saint Paul College is comprised of a significant number of non-traditional students. Saint Paul College has become more ethnically and racially diverse. There are over 15 different languages spoken at Saint Paul College. 
+Two year urban colleges are in ideal locations for immigrants and offer them affordable opportunities to obtain the skills needed for employment.
+The Data from Saint Paul College Web Survey (Saint Paul College A community & Technical College, 2005) also showed the college not only has become more diverse but also technically sophisticated. Seventy-one percent of the student population has a computer at home and 40% use the Web to access online courses. Saint Paul College is an ideal choice to study how technology benefits the learning outcomes of immigrants in a two year college.
+As part of the Minnesota State Colleges and University System, Saint Paul College-A Community and Technical College is located in the heart of the Twin City area, is conveniently located for many students, is an affordable two year college, and has a significant number of diverse students.
+The educational challenges faced by many in the immigrant community have been hidden and largely ignored by the majority of researchers and policymakers (Tang, 2004).
+The influx of new immigrants has posed challenges for school districts, public health agencies, and local economies to find solutions according to Immigrants in the Twin Cities: A Snapshot, Greater Twin Cities (United Way Planning Department, 2001). According to Refugees in Ramsey County (Saint Paul Foundation, 1984), the presence of an increasing number of immigrants in the Twin Cities area has posed complex challenges for many public officials, private foundations, social service agencies, community leaders, and educational institutions as to how to deal with the problems facing new immigrants. These immigrants have had difficulty adjusting to the new culture of the United States. 
+By providing better access to educational opportunities, minority students will become more productive members of the community and better contribute their talents and skills to society.
+
+
+:::

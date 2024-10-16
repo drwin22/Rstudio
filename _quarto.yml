@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Francois"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - vision.qmd
+      - software.qmd
+      - teaching.qmd
+
+format:
+  html:
+    theme:
+      - broadside
+      - custom.scss
+    css: styles.css
+    toc: true
